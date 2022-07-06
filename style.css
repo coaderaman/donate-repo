@@ -6,6 +6,14 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
 .line-one {
     margin-bottom: 0%;
 }
@@ -17,7 +25,7 @@ h1 {
 .banner-part {
     text-align: center;
     color: white;
-    margin: 0px;
+    margin: 0 0;
     padding: 10%;
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
@@ -34,4 +42,70 @@ h1 {
     padding: 15px 20px;
     border-radius: 6%;
 
+}
+
+.second-part {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.amount-section {
+    display: flex;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.amount-op {
+    margin: 10px;
+    padding: 20px 20px;
+    background-color: rgb(221, 215, 215);
+    border-radius: 5%;
+    color: grey;
+}
+
+#red-op {
+    color: red;
+    border: solid red;
+}
+
+.footer {
+    text-align: center;
+}
+
+.peament-sec {
+    border-bottom: solid gray;
+}
+
+.second-button {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.donate-plan {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.donate-plan-sec {
+    display: flex;
+    margin: 5%;
+
+}
+
+.plan-one {
+    background-color: rgba(122, 237, 237, 0.577);
+    margin: 5px;
+    padding: 20px 5px;
+}
+
+.plan-two {
+    background-color: rgba(182, 227, 104, 0.64);
+    margin: 5px;
+    padding: 20px 5px;
+}
+
+.plan-three {
+    background-color: rgba(164, 88, 236, 0.56);
+    margin: 5px;
+    padding: 20px 5px;
 }

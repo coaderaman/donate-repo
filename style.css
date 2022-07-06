@@ -70,6 +70,7 @@ h3 {
 
 .footer {
     text-align: center;
+    color: gray;
 }
 
 .peament-sec {
@@ -88,24 +89,37 @@ h3 {
 
 .donate-plan-sec {
     display: flex;
-    margin: 5%;
+    margin: 7%;
 
 }
 
 .plan-one {
     background-color: rgba(122, 237, 237, 0.577);
-    margin: 5px;
+    margin: 10px;
     padding: 20px 5px;
 }
 
 .plan-two {
     background-color: rgba(182, 227, 104, 0.64);
-    margin: 5px;
+    margin: 10px;
     padding: 20px 5px;
 }
 
 .plan-three {
     background-color: rgba(164, 88, 236, 0.56);
-    margin: 5px;
+    margin: 10px;
     padding: 20px 5px;
+}
+
+.donation-blog {
+    display: flex;
+    margin-top: 10%;
+    margin-left: 3%;
+
+}
+
+.half-width {
+    width: 50%;
+    padding: 5%;
+
 }

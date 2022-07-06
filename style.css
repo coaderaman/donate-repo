@@ -52,7 +52,6 @@ h3 {
 .amount-section {
     display: flex;
     text-align: center;
-    margin-left: 25%;
 }
 
 .amount-op {
@@ -74,6 +73,7 @@ h3 {
 }
 
 .peament-sec {
+    margin: 5% 25%;
     border-bottom: solid gray;
 }
 
